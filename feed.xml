@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[OttoPod]]></title>
+  <link>https://baronvonoto.github.io/OttoPod</link>
+  <description><![CDATA[It's my podcast!]]></description>
+  <itunes:author>Otto Ude</itunes:author>
+  <itunes:image>
+    <url>https://baronvonoto.github.io/OttoPod/artwork/cover.png</url>
+    <title>OttoPod</title>
+    <link>https://baronvonoto.github.io/OttoPod</link>
+  </itunes:image>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 19 Oct 2026 21:17:22 GMT</lastBuildDate>
+
+</channel>
+</rss>

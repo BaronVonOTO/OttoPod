@@ -11,7 +11,15 @@
     <link>https://baronvonoto.github.io/OttoPod</link>
   </itunes:image>
   <language>en-us</language>
-  <lastBuildDate>Mon, 19 Oct 2026 21:17:22 GMT</lastBuildDate>
-
+  <lastBuildDate>Mon, 19 Oct 2026 21:18:04 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[Tubthumping]]></title>
+    <description><![CDATA[By: Chumbawamba]]></description>
+    <pubDate>Mon, 19 Oct 2026 21:18:04 GMT</pubDate>
+    <guid isPermaLink="false">ep_1792444684059</guid>
+    <enclosure url="https://baronvonoto.github.io/OttoPod/audio/tubthumping-1792444672293.mp3" length="5170996" type="audio/mpeg"/>
+    <itunes:image href="https://baronvonoto.github.io/OttoPod/artwork/tubthumping-1792444672293.jpg"/>
+    <itunes:duration>Will this work?</itunes:duration>
+  </item>
 </channel>
 </rss>

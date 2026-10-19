@@ -16,8 +16,17 @@
     <title>OttoPod</title>
     <link>https://baronvonoto.github.io/OttoPod</link>
   </image>
-  <lastBuildDate>Mon, 19 Oct 2026 22:20:27 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 22:39:17 GMT</lastBuildDate>
   <atom:link href="https://baronvonoto.github.io/OttoPod/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title><![CDATA[Never Gonna Give You Up]]></title>
+    <description><![CDATA[By: Rick Astley]]></description>
+    <pubDate>Mon, 19 Oct 2026 22:39:17 GMT</pubDate>
+    <guid isPermaLink="false">ep_1792449557064</guid>
+    <link>https://baronvonoto.github.io/OttoPod/audio/never-gonna-give-you-up-1792449546038.mp3</link>
+    <enclosure url="https://baronvonoto.github.io/OttoPod/audio/never-gonna-give-you-up-1792449546038.mp3" length="5050082" type="audio/mpeg"/>
+    <itunes:image href="https://baronvonoto.github.io/OttoPod/artwork/never-gonna-give-you-up-1792449546038.jpg"/>
+  </item>
   <item>
     <title><![CDATA[Tubthumping]]></title>
     <description><![CDATA[By: Chumbawamba]]></description>
